@@ -1,8 +1,12 @@
 频道,#genre#
-广东珠江,http://59.38.63.30:2052/rtp/239.77.0.1:5146$1920x1080
-广东珠江,http://113.118.194.125:5000/udp/239.77.0.1:5146$1920x1080
+广东珠江,http://113.67.164.10:8888/rtp/239.77.0.1:5146$1920x1080
+广东珠江,http://116.28.124.202:8520/rtp/239.77.0.1:5146$1920x1080
+广东珠江,http://113.90.245.17:4000/rtp/239.77.0.1:5146$1920x1080
+广东珠江,http://121.13.55.157:4022/rtp/239.77.0.1:5146$1920x1080
 广东珠江,http://tenfarr.com:4000/rtp/239.77.0.1:5146$1920x1080
-广东珠江,http://119.142.76.36:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
-广东珠江,http://120.238.84.44:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-1.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$LR•IPV4『线路8』
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
+东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
