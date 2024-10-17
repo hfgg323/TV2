@@ -1,21 +1,15 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="频道",广东珠江
-http://58.252.12.164:8000/udp/239.77.0.1:5146$1920x1080
+http://59.38.63.30:2052/rtp/239.77.0.1:5146$1920x1080
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="频道",广东珠江
-https://stream1.freetv.fun/yan-dong-zhu-jiang-2.ctv$1920x1080
+http://113.118.194.125:5000/udp/239.77.0.1:5146$1920x1080
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="频道",广东珠江
-http://119.123.242.236:4022/udp/239.77.0.1:5146$1920x1080
+http://tenfarr.com:4000/rtp/239.77.0.1:5146$1920x1080
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="频道",广东珠江
-http://113.67.164.10:8888/rtp/239.77.0.1:5146$1920x1080
+http://119.142.76.36:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="频道",广东珠江
-http://121.13.55.157:4022/rtp/239.77.0.1:5146$1920x1080
+http://183.11.239.36:808/hls/83/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="频道",广东珠江
-http://116.22.28.55:4022/rtp/239.77.0.1:5146$1920x1080
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="频道",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="频道",东森超视
-https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$1920x1080
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="频道",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="频道",东森超视
-https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$LR•IPV4『线路8』|1920x1080
+http://120.238.84.44:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="频道",东森电影
+http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
